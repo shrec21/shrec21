@@ -1,4 +1,4 @@
-# Hi there, I'm Shreyas Chougule 👋  
+# Hi there, I'm Shreyas Ravindra Chougule 👋  
 
 MS Computer Science @ UIC | Software Engineer • Distributed Systems • Applied ML  
 
