@@ -31,7 +31,7 @@ C++, C#, Java, Python, JavaScript, TypeScript, SQL
 React.js, Bootstrap, CSS  
 
 **Backend & Systems**  
-Node.js, Express.js, Spring Boot, REST APIs, Apache Kafka  
+Node.js, Express.js, Spring Boot, REST APIs, Kafka  
 
 **Databases**  
 PostgreSQL, MySQL, MariaDB, MongoDB  
