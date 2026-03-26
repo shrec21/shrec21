@@ -37,7 +37,7 @@ Node.js, Express.js, Spring Boot, REST APIs, Kafka
 PostgreSQL, MySQL, MariaDB, MongoDB  
 
 **ML / Data**  
-scikit-learn, TensorFlow, PyTorch, Keras, Apache Spark  
+scikit-learn, TensorFlow, PyTorch, Keras, Apache Spark, RAG, MCP  
 
 **Cloud & DevOps**  
 Docker, AWS, Azure, Jenkins, CI/CD, Grafana  
