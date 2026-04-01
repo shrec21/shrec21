@@ -40,7 +40,7 @@ PostgreSQL, MySQL, MariaDB, MongoDB
 scikit-learn, TensorFlow, PyTorch, Keras, Apache Spark, RAG, MCP  
 
 **Cloud & DevOps**  
-Docker, AWS, Azure, Jenkins, CI/CD, Grafana  
+Docker, AWS, Azure, Jenkins, CI/CD, Grafana, Kubernetes  
 
 ---
 
