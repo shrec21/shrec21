@@ -1,11 +1,11 @@
 ```   
-                                ▄▓╣╬╬╣╬▓▓▓▓▓██▓██▓▓▓▓▓▓▄_
-                              ╔▓╬▓▓▓▓▓█▓▓████████████████▓▄     
-                            ,╬╣▓▓╬╣▓▓████████████████████▓█       
-                            ║╣╣▓▓╣╣╣╣▓█▓▓▓▓╬╣█▓▓█▓█████████_  
+                                ▄▓╣╬╬╣╬▓▓▓▓▓██▓██▓▓▓▓▓▓▄_                Hi there, I'm Shreyas Ravindra Chougule 👋
+                              ╔▓╬▓▓▓▓▓█▓▓████████████████▓▄              Software Engineer
+                            ,╬╣▓▓╬╣▓▓████████████████████▓█              MS Computer Science @ UIC
+                            ║╣╣▓▓╣╣╣╣▓█▓▓▓▓╬╣█▓▓█▓█████████_             Chicago, IL
                             ╚▓▓▓█╬▓▓╬╬╩╩╩╚╚╠╠╠╠╠╬╟▓███████▓`                    
-                            ▐╣▓▓█Ñ╙╩╙```=ÜÜ`ΓÜ╙╚╚╠╬╬╬▓████▌    
-                             ▓██▌_╓╗#▒▄▓▄▄░,╔▄▄▄▓▓▓╬╬╠▓███H
+                            ▐╣▓▓█Ñ╙╩╙```=ÜÜ`ΓÜ╙╚╚╠╬╬╬▓████▌              Portfolio: https://shrec.me
+                             ▓██▌_╓╗#▒▄▓▄▄░,╔▄▄▄▓▓▓╬╬╠▓███H              LinkedIn: https://www.linkedin.com/in/shreyas-chougule-69724a215
                              ╣██░╠╬╠╜╬▓▓╬╬▓▓▓╬▓▓▓▓╣╬╬╬╣▓██`       
                              ╠╜╬ [╙╙╠╠╠╬╩ÜR`╚╬╬╬╠╬╬╬╬╬░▓Ü╣H         `
                              ╙╠T         ╩   ╟▒░░╚╚╚╠Ü░╟▓╠                      
@@ -17,21 +17,7 @@
                                     ╚▒▄_______░╔╬╬╬Ü                           
                                      `╙╣▓▓▓▓▓▓▓╬╬╬                           
 ```
-# Hi there, I'm Shreyas Ravindra Chougule 👋  
-
-MS Computer Science @ UIC | Software Engineer • Distributed Systems • Applied ML  
-
-I’m a software engineer with strong industry experience who enjoys building reliable, scalable systems and turning complex problems into clean, production-ready solutions.
-
-📍 Chicago, IL  
-🔎 Actively seeking Software Engineering / Backend / ML Internships (Summer 2026)  
-🔗 Portfolio: https://shrec.me  
-💼 LinkedIn: https://www.linkedin.com/in/shreyas-chougule-69724a215  
-📫 Email: schou47@uic.edu  
-
----
-
-## 🧑‍💻 About Me  
+ ## 🧑‍💻 About Me  
 
 - Master’s student in **Computer Science** at the **University of Illinois at Chicago** (GPA: 4.0/4.0)  
 - Former **Software Development Engineer @ Dassault Systèmes**  
